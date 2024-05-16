@@ -74,5 +74,4 @@ Attention heatmaps can be generated to visualize the focus of the model on diffe
 ## Results
 
 After training the model, the performance on the test set is reported.<br>
-Wandb Report Link:-https://wandb.ai/cs23m063/deep_learn_assignment_3/reports/CS6910-Assignment-3--Vmlldzo3OTUwNjE0
-
+Wandb Report Link:-https://api.wandb.ai/links/cs23m063/pzhmngsz
